@@ -19,7 +19,7 @@
     <key>LSMinimumSystemVersion</key>
     <string>12.0</string>
     <key>NSCameraUsageDescription</key>
-    <string>HandTracker requires camera access to detect hand and palm positions in real time using Apple Vision for multi-node skeleton visualization.</string>
+    <string>HandTracker requires camera access to detect hand and palm positions in real time using Apple Vision for multi-node skeleton visualization..</string>
     <key>NSHighResolutionCapable</key>
     <true/>
     <key>NSSupportsAutomaticGraphicsSwitching</key>
